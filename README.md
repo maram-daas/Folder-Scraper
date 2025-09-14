@@ -28,9 +28,8 @@ A desktop application built with **Python + Tkinter** that helps you search thro
 ## 🚀 Installation & Usage
 
 ### 🖥️ For Non-Developers
-1. Download the latest release from the [Releases](../../releases) page
+1. Download the latest release from the [Releases](../../releases) page, or download the .exe file.
 2. On Windows, run the `.exe` file directly — **no Python installation required**
-3. (macOS/Linux builds are planned for future releases)
 
 ### 🧑‍💻 For Developers
 1. Clone this repository or download `FolderScraper.py`
