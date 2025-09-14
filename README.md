@@ -109,14 +109,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-### 🎯 Perfect for:
-- 📊 Finding reports across multiple project folders
-- 🔍 Locating specific document types by name
-- 🗂️ Organizing search results by project/category
-- ⚡ Quick file discovery in large directory structures
-
----
-
 **Made with ❤️ for people struggling with their files like I was.**
 
 ---
