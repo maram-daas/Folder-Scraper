@@ -117,8 +117,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-  ## 💝 Acknowledgments
-
 **Made with ❤️ for people struggling with their files like I was.**
 
 ---
